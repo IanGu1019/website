@@ -1,0 +1,13 @@
+---
+title: "About"
+about: 
+  template: jolla
+  image: images/tb.jpg
+  links: 
+    - icon: github
+      href: https://github.com/IanGu1019
+---
+
+**Trailblazer A.K.A "The Galactic Batter"**
+
+Awakened during the opening events of the game by [Kafka](https://honkai-star-rail.fandom.com/wiki/Kafka "Kafka") and [Silver Wolf](https://honkai-star-rail.fandom.com/wiki/Silver_Wolf "Silver Wolf"), they are found by [March 7th](https://honkai-star-rail.fandom.com/wiki/March_7th "March 7th") and [Dan Heng](https://honkai-star-rail.fandom.com/wiki/Dan_Heng "Dan Heng") on [Herta Space Station](https://honkai-star-rail.fandom.com/wiki/Herta_Space_Station "Herta Space Station") during the [Antimatter Legion](https://honkai-star-rail.fandom.com/wiki/Antimatter_Legion "Antimatter Legion")'s invasion.

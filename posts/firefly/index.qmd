@@ -1,0 +1,7 @@
+---
+title: "Date with firefly"
+image: "firefly.jpg"
+date: "11/25/2024"
+---
+
+Nice pic!
